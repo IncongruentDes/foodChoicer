@@ -1,0 +1,58 @@
+*All American
+Cracker-Barrel 5 3.5 4 3.5
+Cheddars 4 4 4 3
+*Breakfast
+Oink 3 3 3 4
+*Burgers
+FullyLoves 2 2.5 4 2
+Lindys-on-fourth 2 2 4 4.5
+McDonalds 4	4 3 2
+JackintheBox 2 4 3 4
+Wendys 3 2 3 1
+WhataBurger 4 2 4 0
+BlakesLotaburger 0 4 5 3.5
+FiveGuys 2	2 4 4
+In-N-Out 3	3.5 2.5 3.5
+Portillos 3	4 5 3
+Freddys 4 3 5 4
+Graze 5	4 3 4
+*Sandwhiches
+Subway 4 3 3 3
+Eegees 5 4 3 2
+Jimmy-Johns 1 1 2 2
+Planet-Sub 1 1 1 1
+*Campus
+IQ-Fresh 1 5 3 1
+Pizza-Hut 2 2.5 2 2
+*Chinese
+Jun-Dynasty 3 4 1 5
+*Coffee/Tea
+Scented-Leaf 5 3 4 5
+Transit-Tea 2 3 4 5
+Starbucks 5 5 3 3
+Dutch-Bros 4 2 1 3.5
+*Chicken
+Popeyes 3 3 4 3
+Raisin-Canes 1 5 4 3.5
+Lucky-Wishbone 5 1 4 1
+*Dessert
+Cold-Stone 4 3 2 4
+Loving-Spoonfuls 4 2 3 1
+*Mexican
+Illegal-Petes 3 4 3.5 4
+Taco-Blanco 1 4.5 1 1
+Taco-Bell 4	4 3 3.5
+Del-Taco 1	2 3 1
+Chipotle 0 3 3 1
+*Special-Events
+Wildflower 4 5 4 5
+Churrasco-de-Brazil 3 5 5 1
+*Pizza
+Mod-Pizza 4 1 3 2
+Black-Jack 2 4 3 5
+No-Chos 3 0 2 1
+*Soup
+Baggins 5 4 5 3
+Beyond-Bread 4 4 4 4
+Choice-Greens 5	5 1 3
+
